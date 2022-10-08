@@ -1,0 +1,7 @@
+apple
+word
+paper
+computer
+mouse
+pyhton
+java
